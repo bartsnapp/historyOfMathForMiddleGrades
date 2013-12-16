@@ -1,0 +1,69 @@
+\newpage
+\section{Meanwhile in Geometry}	
+
+
+Once humans became comfortable with Euclidean Geometry, we took the
+next step: Could the postulates and proofs be improved? In particular,
+the Parallel Postulate seemed overly complicated. Could it
+be \textit{proven} from the previous four, or was it really necessary?
+It was not until the early 19th century that the mystery about the
+role of the Parallel Postulate was solved and its absolute necessity
+was shown. This was done by constructing geometries in which all of
+Euclid's other postulates are true but the Parallel Postulate
+is \textbf{false}.  Here is a construction that depends on two things:
+\begin{enumerate}
+\item Algebraic formulas about the distances between points on a circle. 
+\item A geometric construction.
+\end{enumerate}
+
+Start with a circle of radius 1, center $O$ and two points $A$ and $B$
+inside it.  The inside of this circle will be called
+the \textbf{hyperbolic plane}.
+
+\begin{prob} 
+Use a compass and straightedge construction to construct a segment of length 
+\[
+\frac{1}{|OA|}.
+\]
+\end{prob}
+
+\begin{prob} 
+Extend the ray $\vec{OA}$ far enough outside the circle to be able to mark the point $A'$ such that
+\[
+|OA'| = \frac{1}{|OA|}.
+\]
+\end{prob}
+
+\begin{prob}
+Construct the circle passing through $A$, $A'$, and $B$.  Call the two
+points where our two circles intersect $P$ and $Q$. 
+\end{prob}
+
+The points $P$ and $Q$ divide the newly constructed circle into two
+arcs, the arc inside the hyperbolic plane and the arc outside the
+hyperbolic plane.  Call the inside arc the \textbf{hyperbolic line}
+passing through $A$ and $B$.
+
+We need to have notions of \textit{distance} and \textit{angle} to
+have a geometry.  The \textbf{angle} between two hyperbolic lines that
+cross at a point $X$ is just the angle between the tangent lines to
+the two pieces of circle. The \textbf{hyperbolic distance} between two
+points, for example the two points $A$ and $B$ we started with, is
+found via some complicated algebra:
+\[
+d_H(A,B) = \left|\ln\left(\frac{|AP|}{|BP|} \cdot \frac{|BQ|}{|AQ|} \right)\right|
+\]
+
+\begin{prob}
+Does $d_H(A,B) = d_H(B,A)$?
+\end{prob}
+
+\begin{prob}
+What happens to $d_H(A,B)$ when $A$ is fixed and $B$ gets closer and
+closer to the edge of the circle?
+\end{prob}
+
+\begin{prob}
+If $A$, $B$, and $C$ are on the same hyperbolic line, with $B$ between
+$A$ and $C$, can you explain why $d_H(A,C) = d_H(A,B)+ d_H(B,C)$?
+\end{prob}

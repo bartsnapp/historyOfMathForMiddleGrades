@@ -1,0 +1,20 @@
+\newpage
+\section{Attack of Ferro-Tartaglia}
+
+You may recall that the Ferro-Tartaglia method gives 
+\[
+\sqrt[3]{\frac{-1+\sqrt{-31}}{2}} + \frac{2}{\sqrt[3]{\frac{1}{2}(-1+\sqrt{-31})}}
+\]
+as a solution to: $y = x^3-6x+1$. Moreover, as this plot of $y = x^3-6x+1$ shows
+\[
+\includegraphics[width=3in]{../graphics/cubicPlot.pdf}
+\]
+this must be a real solution\dots But how? There is a square-root of a
+negative number in the expression above! Ok, uncharacteristically for
+me, I'll show you how this is done. Please fasten your seatbelts and
+place your trays in the upright postion.
+
+Start by looking at:
+\[
+\frac{-1+\sqrt{-31}}{2}
+\]

@@ -1,0 +1,56 @@
+\newpage
+\section{Complex Numbers From Different Angles}
+
+
+In this activity we will investigate complex multiplication.
+
+\begin{prob} Consider the innocent little equation:
+\[
+x^3 -1 = 0
+\]
+How many solutions does it have? What are they? Plot them on the
+complex plane below.
+\[
+\includegraphics{../graphics/complexPlane.pdf}
+\]
+\end{prob}
+
+\begin{prob}
+Thinking about your work above, see if you can solve:
+\[
+x^4 -1 = 0
+\]
+Plot the solutions on the complex plane below.
+\[
+\includegraphics{../graphics/complexPlane.pdf}
+\]
+\end{prob}
+
+
+\begin{prob}
+Suppose I told you that:
+\begin{align*}
+\sin(x) &= x - \frac{x^3}{3!} + \frac{x^5}{5!} - \frac{x^7}{7!} + \dots + \frac{(-1)^n x^{2n+1}}{(2n+1)!} + \cdots \\
+\cos(x) &= 1 - \frac{x^2}{2!} + \frac{x^4}{4!} - \frac{x^6}{6!} + \dots + \frac{(-1)^n x^{2n}}{(2n)!} + \cdots \\
+e^x &= 1 + x + \frac{x^2}{2!} + \frac{x^3}{3!} + \frac{x^4}{4!} + \dots + \frac{x^n}{n!} + \cdots 
+\end{align*}
+Explain why we say:
+\[
+e^{x\cdot i} = \cos(x) + i \sin(x)
+\]
+\end{prob}
+
+\begin{prob}
+Use the problem above to explain Euler's famous formula:
+\[
+e^{\pi \cdot i } + 1 = 0
+\]
+\end{prob}
+
+\begin{prob}
+What does all this have to do with De Moivre's Theorem?
+\end{prob}
+
+\begin{prob}
+How can you use this to take the $n$th root of a complex number?
+\end{prob}

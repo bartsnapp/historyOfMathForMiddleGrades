@@ -1,0 +1,37 @@
+\contentsline {section}{\numberline {1}Food for Thought}{2}
+\contentsline {section}{\numberline {2}When in Rome\dots }{3}
+\contentsline {section}{\numberline {3}Picture Yourself Dividing}{4}
+\contentsline {section}{\numberline {4}Friendly Pairs}{5}
+\contentsline {section}{\numberline {5}Estimating the Area of a Circle}{6}
+\contentsline {section}{\numberline {6}Euclid's Proof of Someone's Theorem}{8}
+\contentsline {section}{\numberline {7}Of Course All Right Angles are Congruent\dots }{9}
+\contentsline {section}{\numberline {8}Triangles on a Cone}{10}
+\contentsline {section}{\numberline {9}Classy Work}{11}
+\contentsline {section}{\numberline {10}Polyhedral Planets}{12}
+\contentsline {section}{\numberline {11}Symmetry is the Key}{13}
+\contentsline {section}{\numberline {12}Owing Numbers}{14}
+\contentsline {section}{\numberline {13}Trigonometry Before Sine and Cosine}{16}
+\contentsline {section}{\numberline {14}Geometry and Quadratic Equations}{17}
+\contentsline {section}{\numberline {15}State of the Art Circa 1550}{18}
+\contentsline {section}{\numberline {16}A Whole New World}{19}
+\contentsline {section}{\numberline {17}Disk World}{21}
+\contentsline {section}{\numberline {18}Projective Geometry}{22}
+\contentsline {section}{\numberline {19}Coordinate Geometry}{24}
+\contentsline {section}{\numberline {20}Complex Numbers From Different Angles}{26}
+\contentsline {section}{\numberline {21}De Moivre Saves the Day!}{28}
+\contentsline {section}{\numberline {22}Tic-Tac-D'oh}{31}
+\contentsline {section}{\numberline {23}Bertrand's Paradox}{32}
+\contentsline {paragraph}{Method 1: Random Endpoints}{32}
+\contentsline {paragraph}{Method 2: Random Radius}{32}
+\contentsline {paragraph}{Method 3: Random Midpoint}{32}
+\contentsline {paragraph}{Conclusion?!}{32}
+\contentsline {section}{\numberline {24}Tenths are Best}{33}
+\contentsline {section}{\numberline {25}Whose Intimidating Who Now?}{34}
+\contentsline {section}{\numberline {26}Diophantus---Fermat---Wiles}{35}
+\contentsline {section}{\numberline {27}Cantor Can!}{38}
+\contentsline {section}{\numberline {28}Can You Repeat the Question?}{40}
+\contentsline {section}{\numberline {29}The Applied Side---Stat!}{41}
+\contentsline {paragraph}{Simpson's Paradox}{41}
+\contentsline {section}{\numberline {30}\sout {Deci}mals, \textit {Bi}-mals}{42}
+\contentsline {section}{\numberline {31}Roll Play This}{43}
+\contentsline {section}{\numberline {32}It's How You Play The Game}{44}

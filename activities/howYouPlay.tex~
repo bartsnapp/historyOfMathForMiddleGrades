@@ -1,0 +1,52 @@
+\newpage
+\section{It's How You Play The Game}
+
+Let's play a game! Here is how it will work: Each of you will pick a
+square on the chart below to be ``yours.''
+\[
+\begin{array}{|c|c|c|c|c|} \hline
+3 & 4 & 5 & 6 & 7 \\ \hline
+8 & 9 & 10 & 11 & 12 \\ \hline
+\end{array}
+\]
+Then you will roll some dice. If your number comes up, you get a
+point! First to $10$ points wins.
+
+
+\begin{prob}
+Play the game with a $12$-sided die. Does it matter which square you
+chose? Explain your thoughts on this.
+\end{prob}
+
+\begin{prob}
+Play the game with two $6$-sided dice, adding their values
+together. Does it matter which square you chose? Explain your thoughts
+on this.
+\end{prob}
+
+
+\begin{prob}
+Play the game with three  $4$-sided dice, adding their values
+together. Does it matter which square you chose? Explain your thoughts
+on this.
+\end{prob}
+
+
+\begin{prob}
+Compute the probability of rolling different squares with a 12-sided
+die, two 6-sided dice, and three 4-sided dice. Make three charts to
+help you out. What do you notice?
+\end{prob}
+
+Now let's change the rules of the game. In this game, you get the number of points of the square you are on. So if you choose ``square 3'' and you roll a 3, you get 3 points! First to $80$ wins!
+
+\begin{prob}
+Now which is the best square to choose if you are playing with:
+\begin{itemize}
+\item One 12-sided die?
+\item Two 6-sided dice?
+\item Three 4-sided dice?
+\end{itemize}
+\end{prob}
+
+Note, if you enjoyed this game, check out \textit{Settlers of Catan}.

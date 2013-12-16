@@ -1,0 +1,66 @@
+\newpage
+\section{The Applied Side---Stat!}
+
+
+\fbox{simpson's paradox}
+
+
+While Cantor was doing very abstract and pure mathematics in Germany,
+statistics was making its first appearance as a mathematical subject
+in England.  Perhaps it is not surprising that a cousin of Charles
+Darwin was involve, inventing correlation and regression as
+statistical methods to study the evolution of the human species.
+
+As an example of what correlation means, suppose there were four sets
+of twin females that were split up at birth with one twin living her
+life in the U.S. and the other twin living her life in England.
+Suppose the average adult height of a female in the U.S.\ is 5'4'' with
+a standard deviation of 2'' and the average adult height of a female in
+England is 5'6'' with a standard deviation of 3''.
+\[
+\begin{tabular}{|l||l|l|}\hline
+Twin set & U.S. & U.K. \\ \hline\hline
+1 & 5'6'' & 5'6'' \\\hline
+2 & 5'5'' & 5'4'' \\\hline
+3 & 5'6'' & 5'8'' \\\hline
+4 & 4'11'' & 5'6'' \\\hline
+\end{tabular}
+\]
+
+
+
+\begin{prob}
+Compute the correlation coefficient of this paired (twin) data using
+either formula for $r$ below.  
+
+Recall two methods of computing the \textit{sample correlation
+coefficient}, commonly denoted $r$:
+\[
+r = \frac{\sum_{i=1}^n(X_i-\bar{X})(Y_i-\bar{Y})}{\sqrt{\sum_{i=1}^n(X_i-\bar{X})^2}\sqrt{\sum_{i=1}^n(Y_i-\bar{Y})^2}}
+\]
+An equivalent expression gives the correlation coefficient as the mean
+of the products of the standard scores.  Based on a sample of paired
+data $(X_i, Y_i)$, the sample correlation coefficient is:
+\[
+r = \frac{1}{n-1}\sum_{i=1}^n \left(\frac{X_i-\bar{X}}{\sigma_X} \right)\left(\frac{Y_i-\bar{Y}}{\sigma_Y} \right)
+\]
+\end{prob}
+
+\begin{prob}
+Figure out a single change in the data that makes the correlation
+coefficient bigger.
+\end{prob}
+
+
+
+%Recall that Pearson's correlation coefficient between two variables is
+%defined as the covariance of the two variables divided by the product
+%of their standard deviations:
+%\[
+%\rho_{X,Y} = \frac{\mathrm{cov}(X,Y)}{\sigma_X\sigma_Y} = \frac{E[(X-\mu_X)(Y-\%mu_Y)]}{\sigma_X\sigma_Y}
+%\]
+%The above formula defines the \textit{population correlation
+%coefficient}, commonly represented by the Greek letter $\rho$
+%(rho). Substituting estimates of the covariances and variances based
+%on a sample gives the
+%\textit{sample correlation coefficient}, commonly denoted $r$:
